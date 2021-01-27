@@ -45,8 +45,9 @@ This moves down into a directory.
 ```
 eeb4@salamander textAnalysis-Hub %  
 ```
-(If you're on a Mac you'll see a '%' sign at the end. If you're on Windows, you'll see something different.
-Then to pull in any changes from the remote "mothership" repo, type:
+(If you're on a Mac you'll see a '%' sign at the end. If you're on Windows, you'll see something different.)
+
+To pull in any changes from the remote "mothership" repo, type:
 ````
 git pull
 ```` 
